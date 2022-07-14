@@ -35,7 +35,7 @@ alt="Fork UI on GitHub.com" width="55%"/>
 
 After forking this repository you can...
 1. Download a ZIP of your repositories files, or
-2. Use `git clone your-username@domain.com:your-git-username/uw-fintech-2022-module02-challenge.git` to download a copy of the 
+2. Use `git clone your-username@domain.com:your-git-username/uw-fintech-2022-module07-challenge.git` to download a copy of the 
 forked respository to your computer.
 
 Forking has the added benefit of easily allowing you to keep your application files up-to-date should any changes or improvements 
