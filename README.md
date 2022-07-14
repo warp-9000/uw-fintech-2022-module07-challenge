@@ -1,6 +1,6 @@
 # uw-fintech-2022-module07-challenge
 
-This is the public repo for the Module 7 Challenge assignment for UW FinTech Bootcamp in 2022
+This is the public repo for the Module 7 Challenge assignment for UW FinTech Bootcamp in 2022.
 
 This challenge assignement builds a financial database and web application by using SQL, Python, and the Voila library to analyze 
 the performance of a hypothetical fintech ETF.
@@ -48,23 +48,23 @@ be made in the future.
 ***These GIFs show the challenge assignement rendered by Voila***
 
 <p align="center">
-    <img src="https://github.com/Warp-9000/uw-fintech-2022-module07-challenge/blob/main/images/Module-07-Challenge-01-Std.gif?raw=true" alt="challenge rendered by voila" width="55%"/>
+    <img src="https://github.com/Warp-9000/uw-fintech-2022-module07-challenge/blob/main/images/Module-07-Challenge-01-Std.gif?raw=true" alt="challenge rendered by voila" width="90%"/>
 </p>
 <p align="center">
     <img 
-src="https://github.com/Warp-9000/uw-fintech-2022-module07-challenge/blob/main/images/Module-07-Challenge-02-Std.gif?raw=true" alt="challenge rendered by voila" width="55%"/>
+src="https://github.com/Warp-9000/uw-fintech-2022-module07-challenge/blob/main/images/Module-07-Challenge-02-Std.gif?raw=true" alt="challenge rendered by voila" width="90%"/>
 </p>
 <p align="center">
     <img 
-src="https://github.com/Warp-9000/uw-fintech-2022-module07-challenge/blob/main/images/Module-07-Challenge-03-Std.gif?raw=true" alt="challenge rendered by voila" width="55%"/>
+src="https://github.com/Warp-9000/uw-fintech-2022-module07-challenge/blob/main/images/Module-07-Challenge-03-Std.gif?raw=true" alt="challenge rendered by voila" width="90%"/>
 </p>
 <p align="center">
     <img 
-src="https://github.com/Warp-9000/uw-fintech-2022-module07-challenge/blob/main/images/Module-07-Challenge-04-Std.gif?raw=true" alt="challenge rendered by voila" width="55%"/>
+src="https://github.com/Warp-9000/uw-fintech-2022-module07-challenge/blob/main/images/Module-07-Challenge-04-Std.gif?raw=true" alt="challenge rendered by voila" width="90%"/>
 </p>
 <p align="center">
     <img 
-src="https://github.com/Warp-9000/uw-fintech-2022-module07-challenge/blob/main/images/Module-07-Challenge-05-Std.gif?raw=true" alt="challenge rendered by voila" width="55%"/>
+src="https://github.com/Warp-9000/uw-fintech-2022-module07-challenge/blob/main/images/Module-07-Challenge-05-Std.gif?raw=true" alt="challenge rendered by voila" width="90%"/>
 </p>
 
 ---
